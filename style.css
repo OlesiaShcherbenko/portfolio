@@ -250,7 +250,7 @@ svg {
 
 .hero__text {
   position: relative;
-  text-align: center;
+  /* text-align: center; */
   margin-block-start: 335px;
 }
 
